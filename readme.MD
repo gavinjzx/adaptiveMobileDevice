@@ -1,6 +1,6 @@
 #H5端使用viewport缩放设置解决图片发虚问题#
-使用本插件演示网址：<a href="http:///at4321.com/case/web/adaptiveMobileDevice">http:///at4321.com/case/web/adaptiveMobileDevice</a><br>
-未使用本插件演示网址：<a href="http:///at4321.com/case/web/adaptiveMobileDevice/noAdaptive.html">http:///at4321.com/case/web/adaptiveMobileDevice/noAdaptive.html</a><br>
+使用本插件演示网址：<a href="http://at4321.com/case/web/adaptiveMobileDevice">http://at4321.com/case/web/adaptiveMobileDevice</a><br>
+未使用本插件演示网址：<a href="http://at4321.com/case/web/adaptiveMobileDevice/noAdaptive.html">http://at4321.com/case/web/adaptiveMobileDevice/noAdaptive.html</a><br>
 请使用手机打开查看效果
 ##解决问题##
 1.图片发虚问题解决<br>
